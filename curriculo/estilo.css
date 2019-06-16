@@ -1,0 +1,89 @@
+*{
+    margin:0;
+    padding:0;
+    font-size:100%;
+  }  
+  
+  body{
+    background: linear-gradient(to left,#D8D8D8,#E6E6E6,#F2F2F2,#D8D8D8);
+  }
+  header{
+    background-image: url(https://images.unsplash.com/7/Top_view.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80);
+    padding:60px;
+    text-align:center;
+    background-repeat:no-repeat;
+    background-position:center center;
+     
+  }
+  
+  h1{
+    font-family: 'Lobster Two', cursive;
+    color:#FFDEAD;
+    font-size: 35px;
+  }
+  .TI{
+    font-family: 'Lobster Two', cursive;
+    color:#FFDEAD;
+  }
+  .icones{
+    list-style:none;
+    color:#FFDEAD;
+    text-decoration:none;
+    display:flex;
+    justify-content:center;
+    padding:5px; 
+    font-size:25px
+  }
+  
+  li{
+    padding:3px;
+  }
+  
+  i i{
+    color:#BE9393;
+  }
+  
+  .analise{
+    color:black;
+    font-size: 20px;
+    font-family: 'Lobster Two', cursive;
+    text-align:center;
+  }
+  
+  .corpo{
+    text-align:center;
+  }
+  
+  h2{
+    font-family: 'Lobster Two', cursive;
+    color:#8B3A3A;
+    font-size:32px;
+    
+  }
+  
+  .habi{
+    font-size:25px;
+    display:50%;
+    list-style:none;
+  }
+  
+  .habi li{
+    color:#151515;
+  }
+  
+  p{
+    color:#9594A6;
+  }
+  
+  .habilidades{
+    margin-right:30px;
+    font-family: 'Lobster Two', cursive;
+    
+  }
+  
+  .Sobre{
+    color:black;
+    font-size: 20px;
+    font-family: 'Lobster Two', cursive;
+    
+  }
